@@ -1,0 +1,15 @@
+{
+    "Indicium_Supra_dll": "",
+    "finjVersion": 136,
+    "qdRFzx_exe": "https://github.com/WeAreDevs-Official/WeAreDevs-Official.github.io/raw/master/versions/6-8/RBXMSEAPI.exe",
+    "injDep": "https://github.com/WeAreDevs-Official/WeAreDevs-Official.github.io/raw/master/versions/6-8/Fluxteam_net_API.dll",
+    "exploit-module": {
+        "version": 2984,
+        "patched": false,
+        "download": "https://github.com/WeAreDevs-Official/WeAreDevs-Official.github.io/raw/master/versions/6-8/Module.dll"
+    },
+    "csapi": {
+        "version": 9,
+        "download": "https://cdnwrd2.com/r/2/1673551714278/WeAreDevs_API.dll"
+    }
+}
